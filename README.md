@@ -24,7 +24,7 @@ imagededup
 
 1. 克隆仓库后进入目录：
    ```bash
-   git clone <repo_url>
+   git clone [<repo_url>](https://github.com/Astwea/Dataset_deal.git)
    cd Dataset_deal
    ```
 2. 安装依赖。
